@@ -1,0 +1,9 @@
+[submodule "summarize_new"]
+	path = summarize_new
+	url = https://github.com/kmasta/mini_aiffel_brief-lab.git
+[submodule "collect_news"]
+	path = collect_news
+	url = https://github.com/yangjiwoong1/brief-lab.git
+[submodule "summarize_news"]
+	path = summarize_news
+	url = https://github.com/kmasta/mini_aiffel_brief-lab.git
