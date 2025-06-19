@@ -7,3 +7,6 @@
 [submodule "summarize_news"]
 	path = summarize_news
 	url = https://github.com/kmasta/mini_aiffel_brief-lab.git
+[submodule "n8n_workflows"]
+	path = n8n_workflows
+	url = https://github.com/s-jyeon/newsletter-automation-n8n
