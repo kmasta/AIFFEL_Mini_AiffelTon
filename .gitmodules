@@ -9,7 +9,7 @@
 	url = https://github.com/kmasta/mini_aiffel_brief-lab.git
 [submodule "n8n_workflows"]
 	path = n8n_workflows
-	url = https://github.com/s-jyeon/newsletter-automation-n8n
+	url = https://github.com/s-jyeon/brieflab-n8n-automation.git
 [submodule "summarization_tests"]
 	path = summarization_tests
 	url = https://github.com/hjaelee01/mini-AIFFELthon
